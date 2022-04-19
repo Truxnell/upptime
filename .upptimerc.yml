@@ -6,6 +6,8 @@ sites:
     url: https://www.voltaicforge.com
   - name: k8s mkdoc
     url: https://k8s.voltaicforge.com
+  - name: Status
+    url: https://status.voltaicforge.com
   - name: Flux Webhook
     url: $URL_FLUX_WEBHOOK
     expectedStatusCodes:

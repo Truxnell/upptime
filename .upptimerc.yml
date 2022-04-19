@@ -1,6 +1,5 @@
-# Change these first
-owner: Truxnell # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: Truxnell
+repo: upptime
 
 sites:
   - name: Voltaicforge
@@ -20,16 +19,18 @@ sites:
   - name: Joplin
     url: $URL_JOPLIN
 
-assignees: # Users to assign downtime issues (optional)
+assignees:
   - Truxnell
 
+commitMessages:
+  commitAuthorName: "Trux-Bot"
+  commitAuthorEmail: "19149206+Truxnell@users.noreply.github.com"
+
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /upptime
+  cname: status.voltaicforge.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Hegira - Status
+  theme: ocean
   introTitle: "**Hegira** cluster status & websites"
   introMessage: Current status of Hegira cluster / Voltaicforge websites
   navbar:
@@ -37,5 +38,9 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    - title: home-cluster GitHub
+      href: https://github.com/Truxnell/home-cluster
+    - title: k8s docs
+      href: https://k8s.voltaicforge.com
+    - title: Voltaicforge
+      href: https://voltaicforge.com

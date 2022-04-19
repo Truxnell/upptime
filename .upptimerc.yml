@@ -20,6 +20,8 @@ sites:
     url: $URL_VAULTWARDEN
   - name: Joplin
     url: $URL_JOPLIN
+  - name: Test
+    url: https://not.a-website.xyz
 
 assignees:
   - Truxnell

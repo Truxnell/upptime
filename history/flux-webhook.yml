@@ -1,7 +1,7 @@
 url: $URL_FLUX_WEBHOOK
-status: down
-code: 502
-responseTime: 783
-lastUpdated: 2022-05-01T10:06:53.243Z
+status: up
+code: 400
+responseTime: 664
+lastUpdated: 2022-05-01T13:16:00.339Z
 startTime: Tue Apr 19 2022 04:13:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

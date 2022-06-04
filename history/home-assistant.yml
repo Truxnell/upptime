@@ -1,7 +1,7 @@
 url: $URL_HOMEASSISTANT
-status: up
-code: 200
-responseTime: 1190
-lastUpdated: 2022-06-04T10:27:08.222Z
+status: down
+code: 400
+responseTime: 652
+lastUpdated: 2022-06-04T11:31:24.588Z
 startTime: Tue Apr 19 2022 04:14:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

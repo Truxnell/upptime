@@ -1,7 +1,7 @@
 url: https://status.voltaicforge.com
-status: down
-code: 403
-responseTime: 91
-lastUpdated: 2022-06-30T18:24:43.563Z
+status: up
+code: 200
+responseTime: 218
+lastUpdated: 2022-06-30T18:47:04.291Z
 startTime: Tue Apr 19 2022 05:32:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
